@@ -3,9 +3,9 @@
 
 This project presents a detailed district-wise population analysis of India using Power BI, focusing on population distribution across states, districts, and villages. The dashboard enables clear visualization of demographic patterns and supports data-driven insights.
 
-**📊 Key Highlights
+**📊 Key Highlights**
 
-📈 Overall Population Summary**
+**📈 Overall Population Summary**
 
   🔷 Total population, total states, total districts, and total villages
 
@@ -19,8 +19,8 @@ This project presents a detailed district-wise population analysis of India usin
 
   🔷 Clear ranking to highlight population concentration
 
-**🗺️ District-wise Insights
-**
+**🗺️ District-wise Insights**
+
   🔷 Top high-population districts across India
 
   🔷 District-level contribution to total population
@@ -33,7 +33,7 @@ This project presents a detailed district-wise population analysis of India usin
 
   🔷 Visual representation of population density by district
 
-📊 Top 10 Population Analysis
+**📊 Top 10 Population Analysis**
 
   🔷 Top 10 states by population
 
@@ -60,8 +60,8 @@ This project presents a detailed district-wise population analysis of India usin
 
 
   🔷 Interactive Charts & Maps
-**
-🎯 Project Objective**
+  
+**🎯 Project Objective**
 
   The objective of this project is to provide a clear and interactive demographic analysis that helps understand population distribution, identify high-density regions, and support planning and policy-related insights.
 
